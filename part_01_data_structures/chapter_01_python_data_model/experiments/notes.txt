@@ -1,0 +1,7 @@
+Python is protocol-driven, not inheritance driven.
+Objects collaborate via special methods.
+Built-ins (len, for +) are dispatchers, not magic
+Writing pythonic code = implementing behavior, not forcing types.
+
+
+
